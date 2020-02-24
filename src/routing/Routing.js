@@ -6,5 +6,5 @@ export {
     Switch
   } from "react-router-dom";
   
-  export { withRouter, RouteComponentProps } from "react-router";
+  export {withRouter} from "react-router";
   
