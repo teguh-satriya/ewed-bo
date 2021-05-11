@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.4.1",
     "clsx": "^1.1.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mobx": "^6.0.4",
     "mobx-react-lite": "^3.1.6",
     "mobx-state-tree": "^4.0.2",
